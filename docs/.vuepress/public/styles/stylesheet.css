@@ -66,3 +66,39 @@
   font-weight: 500;
   unicode-range: U+0E00-U+0E7F;
 }
+
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://template.sagelga.com/font/IBMPlexSansThaiLooped-Medium.woff2) format('woff2');
+  unicode-range: U+41-5A, U+61-7A, U+C0-FF;
+}
+
+@font-face {
+  font-family: 'IBM Plex Sans Thai Looped';
+  font-style: bold;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://template.sagelga.com/font/IBMPlexSansThaiLooped-Bold.woff2) format('woff2');
+  unicode-range: U+41-5A, U+61-7A, U+C0-FF;
+}
+
+@font-face {
+  font-family: 'IBM Plex Sans Thai';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://template.sagelga.com/font/IBMPlexSansThai-Medium.woff2) format('woff2');
+  unicode-range: U+41-5A, U+61-7A, U+C0-FF;
+}
+
+@font-face {
+  font-family: 'IBM Plex Sans Thai';
+  font-style: bold;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://template.sagelga.com/font/IBMPlexSansThai-Bold.woff2) format('woff2');
+  unicode-range: U+41-5A, U+61-7A, U+C0-FF;
+}
