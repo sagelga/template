@@ -45,25 +45,28 @@
 
 @font-face {
   font-family: 'Anuphan';
-  src: url(https://template.sagelga.com/font/Anuphan-Medium.woff2) format('woff2');
   font-style: normal;
   font-weight: 500;
+  font-display: swap;
+  src: url(https://template.sagelga.com/font/Anuphan-Medium.woff2) format('woff2');
   unicode-range: U+0E00-U+0E7F;
 }
 
 @font-face {
   font-family: 'Anuphan';
-  src: url(https://template.sagelga.com/font/Anuphan-Bold.woff2) format('woff2');
   font-style: bold;
   font-weight: 700;
+  font-display: swap;
+  src: url(https://template.sagelga.com/font/Anuphan-Bold.woff2) format('woff2');
   unicode-range: U+0E00-U+0E7F;
 }
 
 @font-face {
   font-family: 'Anuphan';
-  src: url(https://template.sagelga.com/font/Anuphan-Medium.woff2) format('woff2');
   font-style: italic;
   font-weight: 500;
+  font-display: swap;
+  src: url(https://template.sagelga.com/font/Anuphan-Medium.woff2) format('woff2');
   unicode-range: U+0E00-U+0E7F;
 }
 
