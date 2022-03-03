@@ -1,83 +1,60 @@
-head,
-body,
-footer,
-div#cookie-notice,
+a,
 a.cn-button,
+body,
+div#cookie-notice,
+footer,
 h1,
 h2,
 h3,
 h4,
 h5,
 h6,
-a,
-p,
+head,
 input,
+p,
 pre.wp-block-verse {
-  font-family: 'anuphan', 'ibm plex sans', sans-serif !important;
+  font-family: anuphan, "ibm plex sans", sans-serif !important;
 }
-
 div.page-banner.overlap {
   margin-bottom: 50px;
 }
-
 .main-navigation a {
   font-size: 16px;
-  font-weight: bold;
+  font-weight: 700;
 }
-
 span.bsf-rt-reading-time {
   border-radius: 5px;
 }
-
-/* -- Ads -- */
 div.bytes-adlabel {
   font-style: italic;
   font-size: 75%;
   color: black;
 }
-
-div.byteside-inarticle {
-  border: 1px solid;
-  border-radius: 5px;
-  padding: 10px;
-}
-
-/* -- Content -- */
 div.entry-content a {
   text-decoration: underline;
 }
-
 .wp-block-verse,
 th {
   background-color: #f1f1ef;
   border-radius: 5px;
 }
-
 tr {
   background-color: #fbfbfb;
 }
-
+.wp-block-gallery img,
 .wp-block-image:not(.is-style-rounded) img {
   border-radius: 5px;
   overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
 }
-
-.wp-block-gallery img {
-  border-radius: 5px;
-}
-
 blockquote.wp-block-quote {
-  margin-left: 0px;
+  margin-left: 0;
 }
-
 table {
   margin-bottom: 5px;
 }
-
 figcaption {
   font-style: italic;
-  font-size: 75%;
-  color: grey;
-  margin-bottom: 5px;
   text-align: center;
 }
