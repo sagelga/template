@@ -28,7 +28,7 @@ span.bsf-rt-reading-time {
 div.bytes-adlabel {
   font-style: italic;
   font-size: 75%;
-  color: black;
+  color: grey;
 }
 div.entry-content a {
   text-decoration: underline;
