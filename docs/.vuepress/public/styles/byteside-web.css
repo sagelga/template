@@ -33,9 +33,9 @@ div.bytes-adlabel {
 div.entry-content a {
   text-decoration: underline;
 }
-.wp-block-verse,
+pre.wp-block-verse,
 th {
-  background-color: #f1f1ef;
+  background-color: #EEEEEE;
   border-radius: 5px;
 }
 tr {
