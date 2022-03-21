@@ -1,60 +1,55 @@
-a,
-a.cn-button,
-body,
-div#cookie-notice,
-footer,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-head,
-input,
-p,
-pre.wp-block-verse {
-  font-family: anuphan, "ibm plex sans", sans-serif !important;
+a,.cn-button,body,#cookie-notice,footer,h1,h2,h3,h4,h5,h6,head,input,p,pre.wp-block-verse,li {
+font-family:anuphan, "ibm plex sans", sans-serif;
 }
-div.page-banner.overlap {
-  margin-bottom: 50px;
+
+.page-banner.overlap {
+margin-bottom:50px;
 }
+
 .main-navigation a {
-  font-size: 16px;
-  font-weight: 700;
+font-size:16px;
+font-weight:700;
 }
-span.bsf-rt-reading-time {
-  border-radius: 5px;
+
+.bsf-rt-reading-time {
+border-radius:5px;
 }
-div.bytes-adlabel {
-  font-style: italic;
-  font-size: 75%;
-  color: grey;
+
+.bytes-adlabel {
+font-style:italic;
+font-size:75%;
+color:grey;
 }
-div.entry-content a {
-  text-decoration: underline;
+
+.entry-content a {
+text-decoration:underline;
 }
-pre.wp-block-verse,
-th {
-  background-color: #EEEEEE;
-  border-radius: 5px;
+
+pre.wp-block-verse,th {
+background-color:#EEE;
+border-radius:5px;
 }
+
 tr {
-  background-color: #fbfbfb;
+background-color:#fbfbfb;
 }
-.wp-block-gallery img,
-.wp-block-image:not(.is-style-rounded) img {
-  border-radius: 5px;
-  overflow: hidden;
-  margin-left: auto;
-  margin-right: auto;
+
+.wp-block-gallery img,.wp-block-image:not(.is-style-rounded) img {
+border-radius:5px;
+overflow:hidden;
+margin-left:auto;
+margin-right:auto;
 }
-blockquote.wp-block-quote {
-  margin-left: 0;
+
+.wp-block-quote {
+margin-left:0;
 }
+
 table {
-  margin-bottom: 5px;
+margin-bottom:5px;
 }
+
 figcaption {
-  font-style: italic;
-  text-align: center;
+font-style:italic;
+text-align:center;
 }
