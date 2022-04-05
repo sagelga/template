@@ -30,12 +30,11 @@ tr,
 	color: grey;
 }
 
-.main-navigation {
+.main-navigation a {
 	font-size: 16px;
-	font-weight: 700;
 }
 
-.entry-content {
+.entry-content a {
 	text-decoration: underline;
 }
 
