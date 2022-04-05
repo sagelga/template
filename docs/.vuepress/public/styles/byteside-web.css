@@ -1,3 +1,5 @@
+/* Setting up fonts --------------------------------------------- */
+
 a,
 .cn-button,
 body,
@@ -19,20 +21,7 @@ html,
 table,
 th,
 tr {
-	font-family: anuphan, "ibm plex sans", sans-serif;
-}
-
-.page-banner.overlap {
-	margin-bottom: 50px;
-}
-
-.main-navigation a {
-	font-size: 16px;
-	font-weight: 700;
-}
-
-.bsf-rt-reading-time {
-	border-radius: 5px;
+	font-family: anuphan, "ibm plex sans thai", "ibm plex sans", sans-serif;
 }
 
 .bytes-adlabel {
@@ -41,8 +30,23 @@ tr {
 	color: grey;
 }
 
+.main-navigation a {
+	font-size: 16px;
+	font-weight: 700;
+}
+
 .entry-content a {
 	text-decoration: underline;
+}
+
+/* Margin fix --------------------------------------------- */
+
+.page-banner.overlap {
+	margin-bottom: 50px;
+}
+
+.bsf-rt-reading-time {
+	border-radius: 5px;
 }
 
 pre.wp-block-verse,

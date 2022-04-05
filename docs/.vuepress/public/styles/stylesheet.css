@@ -3,7 +3,8 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://template.sagelga.com/font/IBMPlexMono-Regular.woff2) format('woff2');
+  src: url(https://template.sagelga.com/font/IBMPlexMono/woff2/IBMPlexMono-Regular.woff2) format('woff2'),
+  url(https://template.sagelga.com/font/IBMPlexMono/otf/IBMPlexMono-Regular.otf) format('otf');
   unicode-range: U+41-5A, U+61-7A, U+C0-FF;
 }
 
@@ -12,7 +13,8 @@
   font-style: bold;
   font-weight: 500;
   font-display: swap;
-  src: url(https://template.sagelga.com/font/IBMPlexMono-Bold.woff2) format('woff2');
+  src: url(https://template.sagelga.com/font/IBMPlexMono/woff2/IBMPlexMono-Bold.woff2) format('woff2'),
+  url(https://template.sagelga.com/font/IBMPlexMono/otf/IBMPlexMono-Bold.otf) format('otf');
   unicode-range: U+41-5A, U+61-7A, U+C0-FF;
 }
 
@@ -21,7 +23,8 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://template.sagelga.com/font/IBMPlexSans-Medium.woff2) format('woff2');
+  src: url(https://template.sagelga.com/font/IBMPlexSans/woff2/IBMPlexSans-Medium.woff2) format('woff2'),
+  url(https://template.sagelga.com/font/IBMPlexSans/otf/IBMPlexSans-Medium.otf) format('otf');
   unicode-range: U+41-5A, U+61-7A, U+C0-FF;
 }
 
@@ -30,7 +33,8 @@
   font-style: bold;
   font-weight: 500;
   font-display: swap;
-  src: url(https://template.sagelga.com/font/IBMPlexSans-Bold.woff2) format('woff2');
+  src: url(https://template.sagelga.com/font/IBMPlexSans/woff2/IBMPlexSans-Bold.woff2) format('woff2'),
+  url(https://template.sagelga.com/font/IBMPlexSans/otf/IBMPlexSans-Bold.otf) format('otf');
   unicode-range: U+41-5A, U+61-7A, U+C0-FF;
 }
 
@@ -39,7 +43,8 @@
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url(https://template.sagelga.com/font/IBMPlexSans-Italic.woff2) format('woff2');
+  src: url(https://template.sagelga.com/font/IBMPlexSans/woff2/IBMPlexSans-Italic.woff2) format('woff2'),
+  url(https://template.sagelga.com/font/IBMPlexSans/otf/IBMPlexSans-Italic.otf) format('otf');
   unicode-range: U+41-5A, U+61-7A, U+C0-FF;
 }
 
@@ -48,7 +53,8 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://template.sagelga.com/font/Anuphan-Medium.woff2) format('woff2');
+  src: url(https://template.sagelga.com/font/Anuphan/woff2/Anuphan-Medium.woff2) format('woff2'),
+  url(https://template.sagelga.com/font/Anuphan/otf/Anuphan-Medium.otf) format('otf');
   unicode-range: U+0E00-U+0E7F;
 }
 
@@ -57,7 +63,8 @@
   font-style: bold;
   font-weight: 700;
   font-display: swap;
-  src: url(https://template.sagelga.com/font/Anuphan-Bold.woff2) format('woff2');
+  src: url(https://template.sagelga.com/font/Anuphan/woff2/Anuphan-Bold.woff2) format('woff2'),
+  url(https://template.sagelga.com/font/Anuphan/otf/Anuphan-Bold.otf) format('otf');
   unicode-range: U+0E00-U+0E7F;
 }
 
@@ -66,7 +73,8 @@
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url(https://template.sagelga.com/font/Anuphan-Medium.woff2) format('woff2');
+  src: url(https://template.sagelga.com/font/Anuphan/woff2/Anuphan-Medium.woff2) format('woff2'),
+  url(https://template.sagelga.com/font/Anuphan/otf/Anuphan-Medium.otf) format('otf');
   unicode-range: U+0E00-U+0E7F;
 }
 
@@ -75,7 +83,8 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://template.sagelga.com/font/IBMPlexSansThaiLooped-Medium.woff2) format('woff2');
+  src: url(https://template.sagelga.com/font/IBMPlexSansThaiLooped/woff2/IBMPlexSansThaiLooped-Medium.woff2) format('woff2'),
+  url(https://template.sagelga.com/font/IBMPlexSansThaiLooped/otf/IBMPlexSansThaiLooped-Medium.otf) format('otf');
   unicode-range: U+41-5A, U+61-7A, U+C0-FF;
 }
 
@@ -84,7 +93,8 @@
   font-style: bold;
   font-weight: 500;
   font-display: swap;
-  src: url(https://template.sagelga.com/font/IBMPlexSansThaiLooped-Bold.woff2) format('woff2');
+  src: url(https://template.sagelga.com/font/IBMPlexSansThaiLooped/woff2/IBMPlexSansThaiLooped-Bold.woff2) format('woff2'),
+  url(https://template.sagelga.com/font/IBMPlexSansThaiLooped/otf/IBMPlexSansThaiLooped-Bold.otf) format('otf');
   unicode-range: U+41-5A, U+61-7A, U+C0-FF;
 }
 
@@ -93,7 +103,8 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://template.sagelga.com/font/IBMPlexSansThai-Medium.woff2) format('woff2');
+  src: url(https://template.sagelga.com/font/IBMPlexSansThai/woff2/IBMPlexSansThai-Medium.woff2) format('woff2'),
+  url(https://template.sagelga.com/font/IBMPlexSansThai/otf/IBMPlexSansThai-Medium.otf) format('otf');
   unicode-range: U+41-5A, U+61-7A, U+C0-FF;
 }
 
@@ -102,6 +113,7 @@
   font-style: bold;
   font-weight: 500;
   font-display: swap;
-  src: url(https://template.sagelga.com/font/IBMPlexSansThai-Bold.woff2) format('woff2');
+  src: url(https://template.sagelga.com/font/IBMPlexSansThai/woff2/IBMPlexSansThai-Bold.woff2) format('woff2'),
+  url(https://template.sagelga.com/font/IBMPlexSansThai/otf/IBMPlexSansThai-Bold.otf) format('otf');
   unicode-range: U+41-5A, U+61-7A, U+C0-FF;
 }
