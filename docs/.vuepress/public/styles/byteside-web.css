@@ -1,9 +1,7 @@
 /* Setting up fonts --------------------------------------------- */
 
 a,
-.cn-button,
 body,
-#cookie-notice,
 footer,
 h1,
 h2,
@@ -14,14 +12,16 @@ h6,
 head,
 input,
 p,
-.wp-block-verse,
-.wp-block-preformatted,
 li,
 html,
 table,
 th,
-tr {
-	font-family: anuphan, "ibm plex sans thai", "ibm plex sans", sans-serif;
+tr,
+.cn-button,
+.wp-block-verse,
+.wp-block-preformatted,
+#cookie-notice {
+	font-family: "Anuphan", "IBM Plex Sans Thai", "IBM Plex Sans", sans-serif;
 }
 
 .bytes-adlabel {
@@ -30,12 +30,12 @@ tr {
 	color: grey;
 }
 
-.main-navigation a {
+.main-navigation {
 	font-size: 16px;
 	font-weight: 700;
 }
 
-.entry-content a {
+.entry-content {
 	text-decoration: underline;
 }
 
