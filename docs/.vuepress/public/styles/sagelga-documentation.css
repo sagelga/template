@@ -1,4 +1,4 @@
 :root {
   --font-family: "Anuphan", "IBM Plex Sans Thai", "IBM Plex Sans", sans-serif;
-  --font-family-code: "JetBrains Mono", monospace;
+  --font-family-code: "JetBrains Mono", "IBM Plex Mono", monospace;
 }
