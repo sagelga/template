@@ -44,7 +44,10 @@ tr,
   margin-bottom: 50px;
 }
 
-.bsf-rt-reading-time {
+.bsf-rt-reading-time,
+.wp-block-latest-posts__featured-image,
+.post-content-inner,
+.post-cats {
   border-radius: 5px;
 }
 
