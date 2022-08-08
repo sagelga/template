@@ -27,9 +27,9 @@
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url(https://template.sagelga.com/font/Anuphan/woff2/Anuphan-Medium.woff2)
+  src: url(https://template.sagelga.com/font/IBMPlexSans/woff2/IBMPlexSans-Italic.woff2)
       format("woff2"),
-    url(https://template.sagelga.com/font/Anuphan/otf/Anuphan-Medium.otf)
+    url(https://template.sagelga.com/font/IBMPlexSans/otf/IBMPlexSans-Italic.otf)
       format("otf");
   unicode-range: U+0E00- U+0E7F;
 }
