@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"Template.sagelga.com",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1661497424e3,contributors:[{name:"Kunanon Srisuntiroj",email:"son9912@gmail.com",commits:1}]},filePathRelative:"README.md"};export{e as data};

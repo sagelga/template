@@ -1,0 +1,82 @@
+/* Setting up fonts --------------------------------------------- */
+
+a,
+body,
+footer,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+head,
+input,
+p,
+li,
+html,
+table,
+th,
+tr,
+.cn-button,
+.wp-block-verse,
+.wp-block-preformatted,
+#cookie-notice {
+  font-family: "Anuphan", "IBM Plex Sans Thai", "IBM Plex Sans", sans-serif;
+}
+
+.bytes-adlabel {
+  font-style: italic;
+  font-size: 75%;
+  color: grey;
+}
+
+.main-navigation a {
+  font-size: 16px;
+}
+
+.entry-content a {
+  text-decoration: underline;
+}
+
+/* Margin fix --------------------------------------------- */
+
+.page-banner.overlap {
+  margin-bottom: 50px;
+}
+
+.bsf-rt-reading-time,
+.wp-block-latest-posts__featured-image img,
+.post-content-inner,
+.post-cats {
+  border-radius: 5px;
+}
+
+pre.wp-block-verse,
+th {
+  background-color: #eee;
+  border-radius: 5px;
+}
+
+tr {
+  background-color: #fbfbfb;
+}
+
+.wp-block-gallery img,
+.wp-block-image:not(.is-style-rounded) img {
+  border-radius: 5px;
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.wp-block-quote {
+  margin-left: 0;
+}
+
+table {
+  margin-bottom: 5px;
+}
+
+figcaption {
+  font-style: italic;
+}
